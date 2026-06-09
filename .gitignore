@@ -1,0 +1,4 @@
+dataset_original.zip
+dataset_extraido/
+*.parquet
+*.csv
