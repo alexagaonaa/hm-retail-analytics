@@ -53,7 +53,7 @@ Para extraer valor directo a la base de datos se utilizaron consultas de SQL Ava
 2. **Expresiones Regulares (`REGEXP_MATCH`, `REGEXP_REPLACE`):** Limpieza de descripciones caóticas del catálogo, unificando familias de colores a tonos base (BLACK, WHITE, LIGHT, DARK).
 3. **CTEs (Common Table Expressions):** Encadenamiento de subconsultas lógicas para calcular el ticket promedio y volumen post-agregación (usando `HAVING`).
 
-*(Ver el código completo en `sql/02_vistas_analiticas.sql`)*.
+*(Ver el código completo en `src/sql/02_analysis_queries.sql`)*.
 
 ---
 
