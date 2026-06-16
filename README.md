@@ -69,8 +69,7 @@ A partir de los datos limpios en el DWH, el análisis reveló lo siguiente:
 ## 📈 7. Visualización (Dashboard)
 Los hallazgos anteriores fueron empaquetados en un Dashboard interactivo en Power BI diseñado para los tomadores de decisiones.
 
-![Dashboard de H&M Analytics](images/dashboard_main.png)
-*(Reemplaza la ruta de arriba con la captura de pantalla real de tu dashboard)*
+![Dashboard de H&M Analytics](dashboard/dashboard_main.png)
 
 **Características del Dashboard:**
 * KPIs de alto nivel (Ingresos Totales, Clientes Activos, Ticket Promedio).
